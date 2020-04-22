@@ -12,7 +12,7 @@ public class Arrays {
 			//sum=sum+c[i];---this is used to print the sum
 			if(c[i]==6)
 			{
-				System.out.println(i);//this is used to print the index of the number
+				System.out.println("value is:"+i);//this is used to print the index of the number
 				break;
 			}
 		
